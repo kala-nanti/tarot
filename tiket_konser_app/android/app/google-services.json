@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386997958735",
+    "project_id": "tiket-konser-app",
+    "storage_bucket": "tiket-konser-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386997958735:android:10a5cef38d9f024be8d23a",
+        "android_client_info": {
+          "package_name": "com.example.tiket_konser_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-abd884xLMEzMAgcEX6ZSOI9FgEtiQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
